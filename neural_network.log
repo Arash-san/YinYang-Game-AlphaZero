@@ -1,0 +1,1802 @@
+2025-05-03 22:30:54,237 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:30:54,239 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:30:54,240 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:30:54,240 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:30:54,240 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:30:54,240 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:30:54,245 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:30:54,286 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:30:54,286 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:30:54,287 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:30:54,287 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:30:54,288 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:30:54,288 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:30:54,289 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:30:54,291 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 22:30:54,310 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:30:54,310 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:30:54,310 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:30:54,311 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:30:54,311 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:30:54,311 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:30:54,312 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:30:54,313 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 22:30:54,332 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:30:54,332 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:30:54,333 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:30:54,333 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:30:54,333 - YinYangNN - INFO - Number of filters: 128
+2025-05-03 22:30:54,333 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-03 22:30:54,348 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:30:54,350 - YinYangNN.data - INFO - Created dataset with 8 samples (augmentation=True)
+2025-05-03 22:30:54,354 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:30:54,354 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:30:54,354 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:30:54,355 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:30:54,355 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:30:54,355 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:30:54,357 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:30:54,403 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:30:54,403 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:30:54,404 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:30:54,404 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:30:54,404 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:30:54,404 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:30:54,407 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:30:54,418 - YinYangNN - INFO - Model saved to test_model.pth.tar
+2025-05-03 22:30:54,423 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:30:54,423 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:30:54,423 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:30:54,423 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:30:54,423 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:30:54,424 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:30:54,427 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:30:54,456 - YinYangNN - INFO - Model loaded from test_model.pth.tar
+2025-05-03 22:32:50,078 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:32:50,079 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:32:50,079 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:32:50,079 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:32:50,079 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:32:50,079 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:32:50,081 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:32:50,095 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:32:50,096 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:32:50,096 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:32:50,096 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:32:50,096 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:32:50,097 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:32:50,099 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:32:50,100 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 22:32:50,106 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:32:50,106 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:32:50,107 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:32:50,107 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:32:50,107 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:32:50,107 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:32:50,109 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:32:50,111 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 22:32:50,132 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:32:50,132 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:32:50,133 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:32:50,133 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:32:50,133 - YinYangNN - INFO - Number of filters: 128
+2025-05-03 22:32:50,133 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-03 22:32:50,148 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:32:50,150 - YinYangNN.data - INFO - Created dataset with 8 samples (augmentation=True)
+2025-05-03 22:32:50,154 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:32:50,155 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:32:50,155 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:32:50,155 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:32:50,155 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:32:50,155 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:32:50,158 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:32:50,169 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:32:50,169 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:32:50,170 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:32:50,170 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:32:50,170 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:32:50,170 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:32:50,173 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:32:50,181 - YinYangNN - INFO - Model saved to test_model.pth.tar
+2025-05-03 22:32:50,187 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:32:50,187 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:32:50,188 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:32:50,188 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:32:50,188 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:32:50,188 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:32:50,191 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:32:50,216 - YinYangNN - INFO - Model loaded from test_model.pth.tar
+2025-05-03 22:33:03,060 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:33:03,060 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:33:03,060 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:33:03,062 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:33:03,062 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:33:03,062 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:33:03,064 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:33:03,078 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:33:03,078 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:33:03,078 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:33:03,078 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:33:03,080 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:33:03,080 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:33:03,082 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:33:03,083 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 22:33:03,089 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:33:03,089 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:33:03,089 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:33:03,089 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:33:03,089 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:33:03,090 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:33:03,092 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:33:03,094 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 22:33:03,114 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:33:03,115 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:33:03,115 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:33:03,115 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:33:03,115 - YinYangNN - INFO - Number of filters: 128
+2025-05-03 22:33:03,115 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-03 22:33:03,131 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:33:03,133 - YinYangNN.data - INFO - Created dataset with 8 samples (augmentation=True)
+2025-05-03 22:33:03,137 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:33:03,137 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:33:03,137 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:33:03,138 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:33:03,138 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:33:03,138 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:33:03,140 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:33:03,151 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:33:03,152 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:33:03,152 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:33:03,152 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:33:03,152 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:33:03,152 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:33:03,155 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:33:03,163 - YinYangNN - INFO - Model saved to test_model.pth.tar
+2025-05-03 22:33:03,169 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:33:03,169 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:33:03,169 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:33:03,170 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:33:03,170 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:33:03,170 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:33:03,173 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:33:03,201 - YinYangNN - INFO - Model loaded from test_model.pth.tar
+2025-05-03 22:35:27,911 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:35:27,911 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:35:27,911 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:35:27,911 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:35:27,912 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:35:27,912 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:35:27,914 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:35:27,928 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:35:27,928 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:35:27,929 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:35:27,929 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:35:27,929 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:35:27,929 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:35:27,932 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:35:27,934 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 22:35:27,942 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:35:27,942 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:35:27,943 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:35:27,943 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:35:27,943 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:35:27,944 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:35:27,946 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:35:27,947 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 22:35:27,966 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:35:27,967 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:35:27,967 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:35:27,967 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:35:27,967 - YinYangNN - INFO - Number of filters: 128
+2025-05-03 22:35:27,967 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-03 22:35:27,983 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:35:27,985 - YinYangNN.data - INFO - Created dataset with 8 samples (augmentation=True)
+2025-05-03 22:35:27,989 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:35:27,989 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:35:27,989 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:35:27,989 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:35:27,989 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:35:27,989 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:35:27,992 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:35:28,003 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:35:28,004 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:35:28,004 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:35:28,004 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:35:28,004 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:35:28,004 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:35:28,007 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:35:28,015 - YinYangNN - INFO - Model saved to test_model.pth.tar
+2025-05-03 22:35:28,020 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 22:35:28,020 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 22:35:28,021 - YinYangNN - INFO - Action size: 36
+2025-05-03 22:35:28,021 - YinYangNN - INFO - Input channels: 5
+2025-05-03 22:35:28,021 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 22:35:28,021 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 22:35:28,024 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 22:35:28,054 - YinYangNN - INFO - Model loaded from test_model.pth.tar
+2025-05-03 23:48:00,568 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:00,599 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:00,599 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:00,600 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:00,600 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 23:48:00,600 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 23:48:00,604 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:00,640 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:00,640 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:00,640 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:00,640 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:00,641 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 23:48:00,641 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 23:48:00,643 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:00,644 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 23:48:00,660 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:00,661 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:00,661 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:00,661 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:00,661 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 23:48:00,661 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 23:48:00,664 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:00,665 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-03 23:48:00,683 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:00,684 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:00,684 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:00,684 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:00,685 - YinYangNN - INFO - Number of filters: 128
+2025-05-03 23:48:00,685 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-03 23:48:00,699 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:00,701 - YinYangNN.data - INFO - Created dataset with 8 samples (augmentation=True)
+2025-05-03 23:48:00,704 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:00,704 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:00,704 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:00,705 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:00,705 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 23:48:00,705 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 23:48:00,707 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:00,748 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:00,749 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:00,749 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:00,749 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:00,749 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 23:48:00,749 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 23:48:00,752 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:00,761 - YinYangNN - INFO - Model saved to test_model.pth.tar
+2025-05-03 23:48:00,766 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:00,767 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:00,767 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:00,767 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:00,767 - YinYangNN - INFO - Number of filters: 32
+2025-05-03 23:48:00,767 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-03 23:48:00,770 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:00,796 - YinYangNN - INFO - Model loaded from test_model.pth.tar
+2025-05-03 23:48:10,750 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:10,750 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:10,750 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:10,750 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:10,750 - YinYangNN - INFO - Number of filters: 128
+2025-05-03 23:48:10,750 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-03 23:48:10,766 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:10,859 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-03 23:48:10,876 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:10,876 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:10,876 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:10,876 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:10,876 - YinYangNN - INFO - Number of filters: 128
+2025-05-03 23:48:10,876 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-03 23:48:10,889 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:13,772 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-03 23:48:33,235 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-03 23:48:33,252 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-03 23:48:33,253 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-03 23:48:33,253 - YinYangNN - INFO - Action size: 36
+2025-05-03 23:48:33,253 - YinYangNN - INFO - Input channels: 5
+2025-05-03 23:48:33,253 - YinYangNN - INFO - Number of filters: 128
+2025-05-03 23:48:33,253 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-03 23:48:33,267 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-03 23:48:33,306 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-04 01:34:24,342 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 01:34:24,344 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 01:34:24,344 - YinYangNN - INFO - Action size: 36
+2025-05-04 01:34:24,344 - YinYangNN - INFO - Input channels: 5
+2025-05-04 01:34:24,344 - YinYangNN - INFO - Number of filters: 32
+2025-05-04 01:34:24,345 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-04 01:34:24,351 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 01:34:24,391 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 01:34:24,391 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 01:34:24,391 - YinYangNN - INFO - Action size: 36
+2025-05-04 01:34:24,391 - YinYangNN - INFO - Input channels: 5
+2025-05-04 01:34:24,392 - YinYangNN - INFO - Number of filters: 32
+2025-05-04 01:34:24,392 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-04 01:34:24,395 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 01:34:24,397 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-04 01:34:24,419 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 01:34:24,419 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 01:34:24,419 - YinYangNN - INFO - Action size: 36
+2025-05-04 01:34:24,420 - YinYangNN - INFO - Input channels: 5
+2025-05-04 01:34:24,420 - YinYangNN - INFO - Number of filters: 32
+2025-05-04 01:34:24,420 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-04 01:34:24,422 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 01:34:24,423 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-04 01:34:24,450 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 01:34:24,450 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 01:34:24,450 - YinYangNN - INFO - Action size: 36
+2025-05-04 01:34:24,450 - YinYangNN - INFO - Input channels: 5
+2025-05-04 01:34:24,450 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 01:34:24,451 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 01:34:24,470 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 01:34:24,473 - YinYangNN.data - INFO - Created dataset with 8 samples (augmentation=True)
+2025-05-04 01:34:24,478 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 01:34:24,478 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 01:34:24,478 - YinYangNN - INFO - Action size: 36
+2025-05-04 01:34:24,479 - YinYangNN - INFO - Input channels: 5
+2025-05-04 01:34:24,479 - YinYangNN - INFO - Number of filters: 32
+2025-05-04 01:34:24,479 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-04 01:34:24,483 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 01:34:24,565 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 01:34:24,565 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 01:34:24,565 - YinYangNN - INFO - Action size: 36
+2025-05-04 01:34:24,566 - YinYangNN - INFO - Input channels: 5
+2025-05-04 01:34:24,566 - YinYangNN - INFO - Number of filters: 32
+2025-05-04 01:34:24,566 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-04 01:34:24,570 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 01:34:24,636 - YinYangNN - INFO - Model saved to test_model.pth.tar
+2025-05-04 01:34:24,652 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 01:34:24,652 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 01:34:24,652 - YinYangNN - INFO - Action size: 36
+2025-05-04 01:34:24,652 - YinYangNN - INFO - Input channels: 5
+2025-05-04 01:34:24,653 - YinYangNN - INFO - Number of filters: 32
+2025-05-04 01:34:24,653 - YinYangNN - INFO - Number of residual blocks: 3
+2025-05-04 01:34:24,657 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 01:34:24,738 - YinYangNN - INFO - Model loaded from test_model.pth.tar
+2025-05-04 01:35:38,411 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 01:35:38,411 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 01:35:38,411 - YinYangNN - INFO - Action size: 36
+2025-05-04 01:35:38,411 - YinYangNN - INFO - Input channels: 5
+2025-05-04 01:35:38,411 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 01:35:38,411 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 01:35:38,433 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 01:35:38,573 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-04 01:35:38,597 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 01:35:38,597 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 01:35:38,597 - YinYangNN - INFO - Action size: 36
+2025-05-04 01:35:38,597 - YinYangNN - INFO - Input channels: 5
+2025-05-04 01:35:38,597 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 01:35:38,597 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 01:35:38,619 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 01:35:41,618 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-04 03:27:11,050 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 03:27:11,050 - YinYangNN - INFO - Board size: (8, 8)
+2025-05-04 03:27:11,050 - YinYangNN - INFO - Action size: 64
+2025-05-04 03:27:11,050 - YinYangNN - INFO - Input channels: 5
+2025-05-04 03:27:11,050 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 03:27:11,050 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 03:27:11,066 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 03:27:11,084 - YinYangNN - WARNING - Board size mismatch: expected (8, 8), got (6, 6)
+2025-05-04 03:27:11,084 - YinYangNN - WARNING - Action size mismatch: expected 64, got 36
+2025-05-04 03:29:05,415 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 03:29:05,415 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 03:29:05,415 - YinYangNN - INFO - Action size: 36
+2025-05-04 03:29:05,416 - YinYangNN - INFO - Input channels: 5
+2025-05-04 03:29:05,416 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 03:29:05,416 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 03:29:05,429 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 03:29:05,454 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-04 03:29:05,455 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-04 03:29:05,455 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 03:29:57,246 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 03:29:57,246 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 03:29:57,247 - YinYangNN - INFO - Action size: 36
+2025-05-04 03:29:57,247 - YinYangNN - INFO - Input channels: 5
+2025-05-04 03:29:57,247 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 03:29:57,247 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 03:29:57,261 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 03:29:57,287 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-04 03:29:57,287 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-04 03:29:57,287 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 03:30:09,336 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 03:30:09,336 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 03:30:09,336 - YinYangNN - INFO - Action size: 36
+2025-05-04 03:30:09,336 - YinYangNN - INFO - Input channels: 5
+2025-05-04 03:30:09,336 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 03:30:09,336 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 03:30:09,350 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 03:30:09,374 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-04 03:30:09,375 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-04 03:30:09,375 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 03:34:04,376 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2025-05-04 03:34:04,376 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 03:34:04,398 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 03:34:07,653 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 03:34:07,669 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 03:34:07,789 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:07] "GET / HTTP/1.1" 200 -
+2025-05-04 03:34:07,795 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:07] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 03:34:07,826 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:07] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-04 03:34:08,133 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 03:34:08,133 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:08] "GET /static/js/yin_yang_game.js HTTP/1.1" 200 -
+2025-05-04 03:34:08,440 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:08] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 03:34:16,886 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:16] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 03:34:19,410 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 03:34:19,410 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 03:34:19,411 - YinYangNN - INFO - Action size: 36
+2025-05-04 03:34:19,411 - YinYangNN - INFO - Input channels: 5
+2025-05-04 03:34:19,411 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 03:34:19,411 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 03:34:19,443 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 03:34:19,481 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-04 03:34:19,483 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-04 03:34:19,483 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 03:34:19,483 - YinYangWebServer - INFO - AlphaZero player initialized with board size 6x6
+2025-05-04 03:34:20,559 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 03:34:20,559 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 03:34:20,559 - YinYangWebServer - ERROR - Error getting AI move: 'NoneType' object has no attribute 'children'
+2025-05-04 03:34:20,560 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:20] "[35m[1mPOST /api/ai_move HTTP/1.1[0m" 500 -
+2025-05-04 03:34:29,653 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 03:34:29,653 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 03:34:29,653 - YinYangWebServer - ERROR - Error getting AI move: 'NoneType' object has no attribute 'children'
+2025-05-04 03:34:29,654 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:29] "[35m[1mPOST /api/ai_move HTTP/1.1[0m" 500 -
+2025-05-04 03:34:36,896 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 03:34:36,896 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 03:34:36,896 - YinYangWebServer - ERROR - Error getting AI move: 'NoneType' object has no attribute 'children'
+2025-05-04 03:34:36,896 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:36] "[35m[1mPOST /api/ai_move HTTP/1.1[0m" 500 -
+2025-05-04 03:34:51,276 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:51] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 03:34:51,302 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:51] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 03:34:51,537 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:34:51] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 03:35:04,635 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:35:04] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 03:35:08,593 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 03:35:08,593 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 03:35:08,593 - YinYangWebServer - ERROR - Error getting AI move: 'NoneType' object has no attribute 'children'
+2025-05-04 03:35:08,593 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:35:08] "[35m[1mPOST /api/ai_move HTTP/1.1[0m" 500 -
+2025-05-04 03:35:28,742 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 03:35:28,742 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 03:35:28,742 - YinYangWebServer - ERROR - Error getting AI move: 'NoneType' object has no attribute 'children'
+2025-05-04 03:35:28,742 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:35:28] "[35m[1mPOST /api/ai_move HTTP/1.1[0m" 500 -
+2025-05-04 03:38:49,135 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\gui\\server.py', reloading
+2025-05-04 03:38:49,168 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\gui\\server.py', reloading
+2025-05-04 03:38:49,171 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\gui\\server.py', reloading
+2025-05-04 03:38:50,625 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 03:38:53,524 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 03:38:53,529 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 03:38:53,995 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:38:53] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 03:38:54,032 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:38:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 03:38:54,218 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:38:54] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 03:39:03,903 - YinYangWebServer - INFO - Validating model: models/best_model.pth.tar
+2025-05-04 03:39:03,934 - YinYangWebServer - INFO - Model validated with board size: (6, 6)
+2025-05-04 03:39:03,935 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:39:03] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 03:39:07,964 - YinYangWebServer - INFO - Creating new game instance with board size 6x6
+2025-05-04 03:39:07,964 - YinYangWebServer - INFO - Creating new AlphaZero player with board size 6x6
+2025-05-04 03:39:07,987 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 03:39:07,987 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 03:39:07,987 - YinYangNN - INFO - Action size: 36
+2025-05-04 03:39:07,987 - YinYangNN - INFO - Input channels: 5
+2025-05-04 03:39:07,987 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 03:39:07,987 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 03:39:08,008 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 03:39:08,041 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-04 03:39:08,042 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-04 03:39:08,042 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 03:39:08,042 - YinYangWebServer - INFO - AlphaZero player initialized with board size 6x6
+2025-05-04 03:39:08,042 - YinYangWebServer - INFO - Getting AI move for player -1
+2025-05-04 03:39:09,135 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 03:39:09,135 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 03:39:09,135 - YinYangWebServer - ERROR - Error getting AI move: 'NoneType' object has no attribute 'children'
+2025-05-04 03:39:09,138 - YinYangWebServer - ERROR - Traceback (most recent call last):
+  File "D:\Projects\ann\YinYang-Alphazero\src\gui\server.py", line 102, in get_ai_move
+    action = alphazero_player.play(board, player)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\ann\YinYang-Alphazero\src\yin_yang\ai\alphazero.py", line 335, in play
+    self.root = self.mcts.reuse_tree(self.root, board, player, action)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\ann\YinYang-Alphazero\src\yin_yang\ai\mcts.py", line 474, in reuse_tree
+    if action_taken in old_root.children:
+                       ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'children'
+
+2025-05-04 03:39:09,138 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:39:09] "[35m[1mPOST /api/ai_move HTTP/1.1[0m" 500 -
+2025-05-04 03:47:31,748 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2025-05-04 03:47:31,748 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 03:47:31,762 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 03:47:34,786 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 03:47:34,792 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 03:47:34,900 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:34] "GET / HTTP/1.1" 200 -
+2025-05-04 03:47:34,903 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:34] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 03:47:34,933 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:34] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-04 03:47:35,250 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 03:47:35,281 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:35] "GET /static/js/yin_yang_game.js HTTP/1.1" 200 -
+2025-05-04 03:47:35,516 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:35] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 03:47:42,941 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:42] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 03:47:47,255 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-04 03:47:47,255 - YinYangWebServer - INFO - Creating new game instance with size 6x6
+2025-05-04 03:47:47,255 - YinYangWebServer - INFO - Initializing AlphaZero player with model: models/best_model.pth.tar
+2025-05-04 03:47:47,293 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 03:47:47,294 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 03:47:47,294 - YinYangNN - INFO - Action size: 36
+2025-05-04 03:47:47,294 - YinYangNN - INFO - Input channels: 5
+2025-05-04 03:47:47,294 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 03:47:47,294 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 03:47:47,328 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 03:47:47,383 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-04 03:47:47,384 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-04 03:47:47,384 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 03:47:47,385 - YinYangWebServer - INFO - AlphaZero player initialized with board size 6x6
+2025-05-04 03:47:47,385 - YinYangWebServer - INFO - Board state for AI move: 
+[[0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 1 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]]
+2025-05-04 03:47:47,386 - YinYangWebServer - INFO - Current player: -1
+2025-05-04 03:47:47,386 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-04 03:47:48,616 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 03:47:48,617 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 03:47:48,617 - YinYangWebServer - ERROR - Error getting AI move: 'NoneType' object has no attribute 'children'
+Traceback (most recent call last):
+  File "D:\Projects\ann\YinYang-Alphazero\src\gui\server.py", line 80, in get_ai_move
+    action = alphazero_player.play(board, player)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\ann\YinYang-Alphazero\src\yin_yang\ai\alphazero.py", line 335, in play
+    self.root = self.mcts.reuse_tree(self.root, board, player, action)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\ann\YinYang-Alphazero\src\yin_yang\ai\mcts.py", line 474, in reuse_tree
+    if action_taken in old_root.children:
+                       ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'children'
+2025-05-04 03:47:48,621 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:48] "[35m[1mPOST /api/ai_move HTTP/1.1[0m" 500 -
+2025-05-04 03:47:56,636 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:56] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 03:47:56,948 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 03:47:56,949 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:47:56] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 03:48:06,702 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:48:06] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 03:50:38,378 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2025-05-04 03:50:38,379 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 03:50:38,391 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 03:50:41,386 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 03:50:41,391 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 03:50:41,493 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:50:41] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 03:50:41,496 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:50:41] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 03:50:41,529 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:50:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 03:50:41,845 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:50:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 03:50:41,846 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:50:41] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 03:50:42,105 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:50:42] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 03:50:53,200 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:50:53] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 03:50:55,063 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:50:55] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 03:51:01,349 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-04 03:51:01,350 - YinYangWebServer - INFO - Creating new game instance with size 6x6
+2025-05-04 03:51:01,350 - YinYangWebServer - INFO - Initializing AlphaZero player with model: models/best_model.pth.tar
+2025-05-04 03:51:01,368 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 03:51:01,368 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 03:51:01,368 - YinYangNN - INFO - Action size: 36
+2025-05-04 03:51:01,368 - YinYangNN - INFO - Input channels: 5
+2025-05-04 03:51:01,368 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 03:51:01,368 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 03:51:01,384 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 03:51:01,412 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-04 03:51:01,412 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-04 03:51:01,413 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 03:51:01,413 - YinYangWebServer - INFO - AlphaZero player initialized with board size 6x6
+2025-05-04 03:51:01,413 - YinYangWebServer - INFO - Board state for AI move: 
+[[0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 1 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]]
+2025-05-04 03:51:01,413 - YinYangWebServer - INFO - Current player: -1
+2025-05-04 03:51:01,413 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-04 03:51:02,166 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 03:51:02,166 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 03:51:02,166 - YinYangWebServer - ERROR - Error getting AI move: 'NoneType' object has no attribute 'children'
+Traceback (most recent call last):
+  File "D:\Projects\ann\YinYang-Alphazero\src\gui\server.py", line 80, in get_ai_move
+    action = alphazero_player.play(board, player)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\ann\YinYang-Alphazero\src\yin_yang\ai\alphazero.py", line 335, in play
+    self.root = self.mcts.reuse_tree(self.root, board, player, action)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Projects\ann\YinYang-Alphazero\src\yin_yang\ai\mcts.py", line 474, in reuse_tree
+    if action_taken in old_root.children:
+                       ^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'children'
+2025-05-04 03:51:02,168 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:51:02] "[35m[1mPOST /api/ai_move HTTP/1.1[0m" 500 -
+2025-05-04 03:51:33,210 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:51:33] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 03:51:33,231 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:51:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 03:51:33,473 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:51:33] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 03:51:40,698 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:51:40] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 03:57:01,087 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\yin_yang_game.py', reloading
+2025-05-04 03:57:01,099 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\__init__.py', reloading
+2025-05-04 03:57:01,110 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\__init__.py', reloading
+2025-05-04 03:57:01,141 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\gui\\__init__.py', reloading
+2025-05-04 03:57:02,502 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 03:57:05,200 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 03:57:05,205 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 03:57:05,667 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:57:05] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 03:57:05,689 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:57:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 03:57:05,891 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 03:57:05] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:12:45,054 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:12:45] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 04:13:13,000 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2025-05-04 04:13:13,001 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 04:13:13,013 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:13:16,161 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:13:16,167 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:13:16,286 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:13:16] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:13:16,303 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:13:16] "GET / HTTP/1.1" 200 -
+2025-05-04 04:13:16,343 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:13:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:13:16,646 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:13:16] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:13:56,469 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:13:56,477 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:13:56,478 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:13:56,854 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\__init__.py', reloading
+2025-05-04 04:13:56,855 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_utils\\__init__.py', reloading
+2025-05-04 04:13:56,855 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading
+2025-05-04 04:13:56,856 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+2025-05-04 04:13:56,856 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_shape.py', reloading
+2025-05-04 04:13:56,856 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_dtype_like.py', reloading
+2025-05-04 04:13:56,856 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+2025-05-04 04:13:56,861 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_char_codes.py', reloading
+2025-05-04 04:13:56,861 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\_typing\\_scalars.py', reloading
+2025-05-04 04:13:56,868 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\nn\\__init__.py', reloading
+2025-05-04 04:13:56,869 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\types.py', reloading
+2025-05-04 04:13:56,875 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\_tensor.py', reloading
+2025-05-04 04:13:56,875 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\storage.py', reloading
+2025-05-04 04:13:56,876 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\serialization.py', reloading
+2025-05-04 04:13:56,876 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\_compile.py', reloading
+2025-05-04 04:13:56,876 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\autograd\\__init__.py', reloading
+2025-05-04 04:13:56,877 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\__future__.py', reloading
+2025-05-04 04:13:56,877 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\optim\\__init__.py', reloading
+2025-05-04 04:13:56,877 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\testing\\__init__.py', reloading
+2025-05-04 04:13:56,877 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\utils\\__init__.py', reloading
+2025-05-04 04:13:56,878 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\fx\\__init__.py', reloading
+2025-05-04 04:13:56,878 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\_dynamo\\__init__.py', reloading
+2025-05-04 04:13:56,878 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\_prims_common\\__init__.py', reloading
+2025-05-04 04:13:56,879 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\_jit_internal.py', reloading
+2025-05-04 04:13:56,879 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\nn\\modules\\__init__.py', reloading
+2025-05-04 04:13:56,879 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\nn\\modules\\batchnorm.py', reloading
+2025-05-04 04:13:56,881 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\nn\\modules\\container.py', reloading
+2025-05-04 04:13:56,881 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\nn\\modules\\conv.py', reloading
+2025-05-04 04:13:56,881 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\nn\\modules\\linear.py', reloading
+2025-05-04 04:13:56,882 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\nn\\modules\\loss.py', reloading
+2025-05-04 04:13:56,883 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\nn\\init.py', reloading
+2025-05-04 04:13:56,883 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\nn\\common_types.py', reloading
+2025-05-04 04:13:56,884 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\autograd\\grad_mode.py', reloading
+2025-05-04 04:13:56,884 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\utils\\_contextlib.py', reloading
+2025-05-04 04:13:56,884 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\utils\\data\\__init__.py', reloading
+2025-05-04 04:13:56,885 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\optim\\adam.py', reloading
+2025-05-04 04:13:56,885 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\optim\\optimizer.py', reloading
+2025-05-04 04:13:56,885 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\utils\\data\\dataloader.py', reloading
+2025-05-04 04:13:56,886 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\utils\\data\\dataset.py', reloading
+2025-05-04 04:13:56,886 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\utils\\data\\sampler.py', reloading
+2025-05-04 04:13:56,887 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\cuda\\memory.py', reloading
+2025-05-04 04:13:56,887 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\cuda\\random.py', reloading
+2025-05-04 04:13:56,887 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\_dynamo\\eval_frame.py', reloading
+2025-05-04 04:13:56,888 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\_dynamo\\decorators.py', reloading
+2025-05-04 04:13:56,888 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\_dynamo\\utils.py', reloading
+2025-05-04 04:13:56,889 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\utils\\checkpoint.py', reloading
+2025-05-04 04:13:56,889 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\_dynamo\\types.py', reloading
+2025-05-04 04:13:56,892 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\torch\\testing\\_comparison.py', reloading
+2025-05-04 04:13:56,892 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\matplotlib\\pyplot.py', reloading
+2025-05-04 04:13:56,896 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\matplotlib\\backends\\__init__.py', reloading
+2025-05-04 04:13:56,897 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\numpy\\typing\\__init__.py', reloading
+2025-05-04 04:13:56,898 - werkzeug - INFO -  * Detected change in 'C:\\Users\\arash\\AppData\\Roaming\\Python\\Python312\\site-packages\\matplotlib\\backends\\registry.py', reloading
+2025-05-04 04:13:57,950 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:14:01,159 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:14:01,167 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:14:01,635 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:14:01] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:14:01,658 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:14:01] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:14:01,856 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:14:01] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:14:12,233 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:14:12,233 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:14:12,233 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:14:12,233 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:14:12,233 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:14:12,233 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:14:12,247 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:14:12,273 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:14:12,273 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:14:12,273 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:14:12,383 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:14:12,383 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:14:12,429 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:14:12,429 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:14:12,429 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:14:12,429 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:14:12,429 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:14:12,429 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:14:12,448 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:14:12,475 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:14:12,475 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:14:12,475 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:14:12,521 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:14:12,521 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:14:12,521 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:14:12,521 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:14:12,521 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:14:12,521 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:14:12,537 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:14:12,561 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:14:12,562 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:14:12,562 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:14:12,671 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:14:12,671 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:14:18,995 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:14:18,996 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:14:18,996 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:14:18,996 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:14:18,996 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:14:18,996 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:14:19,010 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:14:19,035 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:14:19,036 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:14:19,036 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:14:19,133 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:14:19,133 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:14:19,187 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:14:19,187 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:14:19,187 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:14:19,187 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:14:19,187 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:14:19,187 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:14:19,211 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:14:19,239 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:14:19,240 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:14:19,240 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:14:19,283 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:14:19,283 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:14:19,283 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:14:19,283 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:14:19,283 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:14:19,283 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:14:19,303 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:14:19,327 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:14:19,327 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:14:19,328 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:14:19,438 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:14:19,438 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:14:43,492 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\ai\\alphazero.py', reloading
+2025-05-04 04:14:43,513 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\ai\\alphazero.py', reloading
+2025-05-04 04:14:43,514 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\ai\\alphazero.py', reloading
+2025-05-04 04:14:44,552 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:14:47,372 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:14:47,377 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:14:47,886 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:14:47] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:14:47,914 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:14:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:14:48,098 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:14:48] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:14:49,348 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:14:49,348 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:14:49,348 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:14:49,348 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:14:49,348 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:14:49,348 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:14:49,363 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:14:49,426 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:14:49,426 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:14:49,426 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:14:49,621 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:14:49,621 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:14:49,671 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:14:49,671 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:14:49,671 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:14:49,671 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:14:49,671 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:14:49,671 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:14:49,693 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:14:49,727 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:14:49,728 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:14:49,728 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:14:49,778 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:14:49,778 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:14:49,778 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:14:49,778 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:14:49,778 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:14:49,778 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:14:49,800 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:14:49,826 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:14:49,826 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:14:49,827 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:14:49,943 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:14:49,943 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:15:19,332 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:15:19,347 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:15:20,449 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:15:23,117 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:15:23,122 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:15:23,525 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:15:23] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:15:23,544 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:15:23] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:15:23,753 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:15:23] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:15:26,738 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:15:26,739 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:15:26,739 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:15:26,739 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:15:26,739 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:15:26,739 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:15:26,753 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:15:26,777 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:15:26,778 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:15:26,778 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:15:26,898 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:15:26,898 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:15:26,944 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:15:26,945 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:15:26,945 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:15:26,945 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:15:26,945 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:15:26,945 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:15:26,968 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:15:26,998 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:15:27,001 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:15:27,001 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:15:27,042 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:15:27,042 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:15:27,042 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:15:27,042 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:15:27,042 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:15:27,042 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:15:27,061 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:15:27,090 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:15:27,091 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:15:27,091 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:15:27,213 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:15:27,213 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:15:27,316 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 3((0, 3)): 4.0, 8((1, 2)): 2.0, 6((1, 0)): 2.0, 7((1, 1)): 2.0
+2025-05-04 04:15:27,317 - YinYangMCTS - INFO - Selected action 3 (0,3) with probability 0.4000
+2025-05-04 04:15:27,317 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:15:27,420 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 12((2, 0)): 8.0, 14((2, 2)): 2.0
+2025-05-04 04:15:27,420 - YinYangMCTS - INFO - Selected action 12 (2,0) with probability 0.8000
+2025-05-04 04:15:27,420 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:15:27,539 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 25((4, 1)): 10.0
+2025-05-04 04:15:27,539 - YinYangMCTS - INFO - Selected action 25 (4,1) with probability 1.0000
+2025-05-04 04:15:27,539 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:15:44,730 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\ai\\alphazero.py', reloading
+2025-05-04 04:15:44,768 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\ai\\alphazero.py', reloading
+2025-05-04 04:15:45,644 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:15:48,390 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:15:48,397 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:15:48,812 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:15:48] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:15:48,830 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:15:48] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:15:49,035 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:15:49] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:15:58,845 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\ai\\mcts.py', reloading
+2025-05-04 04:15:58,868 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\ai\\mcts.py', reloading
+2025-05-04 04:15:58,869 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\ai\\mcts.py', reloading
+2025-05-04 04:15:59,507 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:16:02,181 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:16:02,186 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:16:02,576 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:16:02] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:16:02,594 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:16:02] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:16:02,804 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:16:02] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:16:22,395 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\gui\\server.py', reloading
+2025-05-04 04:16:22,420 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\gui\\server.py', reloading
+2025-05-04 04:16:22,421 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\gui\\server.py', reloading
+2025-05-04 04:16:23,629 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:16:26,273 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:16:26,279 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:16:26,665 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:16:26] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:16:26,681 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:16:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:16:26,893 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:16:26] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:16:33,761 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:16:33,761 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:16:33,761 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:16:33,761 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:16:33,761 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:16:33,761 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:16:33,775 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:16:33,803 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:16:33,803 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:16:33,803 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:16:33,926 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:16:33,926 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:16:33,967 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:16:33,968 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:16:33,968 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:16:33,968 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:16:33,968 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:16:33,968 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:16:33,990 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:16:34,015 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:16:34,015 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:16:34,015 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:16:34,059 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:16:34,059 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:16:34,060 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:16:34,060 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:16:34,060 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:16:34,060 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:16:34,083 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:16:34,110 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:16:34,110 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:16:34,110 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:16:34,220 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:16:34,220 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:16:34,315 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 3((0, 3)): 4.0, 8((1, 2)): 2.0, 6((1, 0)): 2.0, 7((1, 1)): 2.0
+2025-05-04 04:16:34,315 - YinYangMCTS - INFO - Selected action 3 (0,3) with probability 0.4000
+2025-05-04 04:16:34,315 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:16:34,422 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 12((2, 0)): 8.0, 14((2, 2)): 2.0
+2025-05-04 04:16:34,422 - YinYangMCTS - INFO - Selected action 12 (2,0) with probability 0.8000
+2025-05-04 04:16:34,422 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:16:34,548 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 25((4, 1)): 10.0
+2025-05-04 04:16:34,548 - YinYangMCTS - WARNING - No valid moves with non-zero probability
+2025-05-04 04:16:34,548 - YinYangAlphaZero - WARNING - MCTS selected invalid move 25, selecting a random valid move instead
+2025-05-04 04:16:34,548 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:17:06,253 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:17:06,268 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:17:06,268 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:17:07,762 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:17:10,433 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:17:10,439 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:17:10,847 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:10] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:17:10,868 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:17:11,058 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:11] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:17:13,172 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:17:13,172 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:17:13,172 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:17:13,172 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:17:13,172 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:17:13,172 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:17:13,187 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:17:13,212 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:17:13,213 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:17:13,213 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:17:13,322 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:17:13,322 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:17:13,373 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:17:13,373 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:17:13,373 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:17:13,373 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:17:13,373 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:17:13,373 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:17:13,395 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:17:13,428 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:17:13,428 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:17:13,429 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:17:13,483 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:17:13,484 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:17:13,484 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:17:13,484 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:17:13,484 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:17:13,484 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:17:13,504 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:17:13,531 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:17:13,532 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:17:13,532 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:17:13,653 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:17:13,653 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:17:13,757 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 3((0, 3)): 4.0, 8((1, 2)): 2.0, 6((1, 0)): 2.0, 7((1, 1)): 2.0
+2025-05-04 04:17:13,757 - YinYangMCTS - INFO - Selected action 3 (0,3) with probability 0.4000
+2025-05-04 04:17:13,757 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:17:13,863 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 12((2, 0)): 8.0, 14((2, 2)): 2.0
+2025-05-04 04:17:13,863 - YinYangMCTS - INFO - Selected action 12 (2,0) with probability 0.8000
+2025-05-04 04:17:13,863 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:17:13,973 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 25((4, 1)): 10.0
+2025-05-04 04:17:13,973 - YinYangMCTS - WARNING - No valid moves with non-zero probability
+2025-05-04 04:17:13,973 - YinYangAlphaZero - WARNING - MCTS selected invalid move 25, selecting a random valid move instead
+2025-05-04 04:17:13,973 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:17:33,936 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:17:33,951 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:17:33,952 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\test_alphazero.py', reloading
+2025-05-04 04:17:35,233 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:17:37,945 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:17:37,951 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:17:38,363 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:38] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:17:38,380 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:38] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:17:38,594 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:38] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:17:41,008 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:17:41,008 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:17:41,008 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:17:41,008 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:17:41,008 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:17:41,008 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:17:41,025 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:17:41,050 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:17:41,051 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:17:41,051 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:17:41,169 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:17:41,169 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:17:41,210 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:17:41,211 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:17:41,211 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:17:41,211 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:17:41,211 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:17:41,211 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:17:41,228 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:17:41,257 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:17:41,258 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:17:41,258 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:17:41,299 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 04:17:41,299 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 04:17:41,299 - YinYangNN - INFO - Action size: 36
+2025-05-04 04:17:41,299 - YinYangNN - INFO - Input channels: 5
+2025-05-04 04:17:41,299 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 04:17:41,299 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 04:17:41,323 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 04:17:41,345 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-04 04:17:41,346 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-04 04:17:41,346 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 04:17:41,475 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-04 04:17:41,475 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-04 04:17:41,582 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 3((0, 3)): 4.0, 8((1, 2)): 2.0, 6((1, 0)): 2.0, 7((1, 1)): 2.0
+2025-05-04 04:17:41,582 - YinYangMCTS - INFO - Selected action 3 (0,3) with probability 0.4000
+2025-05-04 04:17:41,582 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:17:41,696 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 12((2, 0)): 8.0, 14((2, 2)): 2.0
+2025-05-04 04:17:41,696 - YinYangMCTS - INFO - Selected action 12 (2,0) with probability 0.8000
+2025-05-04 04:17:41,696 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:17:41,831 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 25((4, 1)): 10.0
+2025-05-04 04:17:41,831 - YinYangMCTS - WARNING - No valid moves with non-zero probability
+2025-05-04 04:17:41,831 - YinYangAlphaZero - WARNING - MCTS selected invalid move 25, selecting a random valid move instead
+2025-05-04 04:17:41,831 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-04 04:17:53,841 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2025-05-04 04:17:53,841 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 04:17:53,855 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 04:17:54,229 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:54] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:17:54,251 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:17:54,491 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:54] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 04:17:56,713 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 04:17:56,720 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 04:17:57,137 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:57] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 04:17:57,158 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:57] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 04:17:57,403 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 04:17:57] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 05:47:31,926 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\play_yin_yang_web.py', reloading
+2025-05-04 05:47:32,852 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 05:47:40,761 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 05:47:40,766 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 05:47:40,795 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2025-05-04 05:47:40,795 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 05:47:40,815 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 05:47:41,332 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:41] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 05:47:41,334 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:41] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 05:47:41,528 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 05:47:41,689 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 05:47:41,873 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:41] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 05:47:42,185 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:42] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 05:47:43,988 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 05:47:43,993 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 05:47:44,048 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:44] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 05:47:44,352 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 05:47:44,383 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:44] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 05:47:54,396 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:54] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 05:47:54,502 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:54] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 05:47:58,603 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-04 05:47:58,603 - YinYangWebServer - INFO - Creating new game instance with size 6x6
+2025-05-04 05:47:58,603 - YinYangWebServer - INFO - Initializing AlphaZero player with model: models/best_model.pth.tar
+2025-05-04 05:47:58,641 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 05:47:58,641 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 05:47:58,641 - YinYangNN - INFO - Action size: 36
+2025-05-04 05:47:58,641 - YinYangNN - INFO - Input channels: 5
+2025-05-04 05:47:58,641 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 05:47:58,641 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 05:47:58,665 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 05:47:58,704 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-04 05:47:58,705 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-04 05:47:58,706 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 05:47:58,706 - YinYangWebServer - INFO - AlphaZero player initialized with board size 6x6
+2025-05-04 05:47:58,706 - YinYangWebServer - INFO - Board state for AI move: 
+[[0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 1 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]]
+2025-05-04 05:47:58,706 - YinYangWebServer - INFO - Current player: -1
+2025-05-04 05:47:58,711 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-04 05:47:58,711 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-04 05:47:59,843 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 05:47:59,843 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 05:47:59,843 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-04 05:47:59,844 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:47:59] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-04 05:48:03,011 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-04 05:48:03,011 - YinYangWebServer - INFO - Board state for AI move: 
+[[ 0  0  0  0  0  0]
+ [ 0  0  0  0  0  0]
+ [ 0  0  1  1  0  0]
+ [ 0  0 -1  0  0  0]
+ [ 0  0  0  0  0  0]
+ [ 0  0  0  0  0  0]]
+2025-05-04 05:48:03,011 - YinYangWebServer - INFO - Current player: -1
+2025-05-04 05:48:03,015 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-04 05:48:03,015 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-04 05:48:04,100 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 05:48:04,100 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 05:48:04,100 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-04 05:48:04,100 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:48:04] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-04 05:50:23,242 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\yin_yang_game.py', reloading
+2025-05-04 05:50:23,257 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\yin_yang\\__init__.py', reloading
+2025-05-04 05:50:23,262 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\__init__.py', reloading
+2025-05-04 05:50:23,289 - werkzeug - INFO -  * Detected change in 'D:\\Projects\\ann\\YinYang-Alphazero\\src\\gui\\__init__.py', reloading
+2025-05-04 05:50:23,893 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 05:50:26,695 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 05:50:26,701 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 05:50:27,184 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:50:27] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 05:50:27,212 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:50:27] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 05:50:27,408 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:50:27] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 05:51:08,803 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2025-05-04 05:51:08,804 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 05:51:08,820 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 05:51:12,051 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 05:51:12,058 - werkzeug - INFO -  * Debugger PIN: 133-781-953
+2025-05-04 05:51:12,178 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:12] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 05:51:12,180 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:12] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-04 05:51:12,219 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 05:51:12,531 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:12] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-04 05:51:12,532 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:12] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 05:51:12,795 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:12] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-04 05:51:21,459 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:21] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-04 05:51:26,474 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-04 05:51:26,474 - YinYangWebServer - INFO - Creating new game instance with size 6x6
+2025-05-04 05:51:26,474 - YinYangWebServer - INFO - Initializing AlphaZero player with model: models/best_model.pth.tar
+2025-05-04 05:51:26,499 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-04 05:51:26,499 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-04 05:51:26,499 - YinYangNN - INFO - Action size: 36
+2025-05-04 05:51:26,499 - YinYangNN - INFO - Input channels: 5
+2025-05-04 05:51:26,499 - YinYangNN - INFO - Number of filters: 128
+2025-05-04 05:51:26,499 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-04 05:51:26,527 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-04 05:51:26,571 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-04 05:51:26,572 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-04 05:51:26,572 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-04 05:51:26,572 - YinYangWebServer - INFO - AlphaZero player initialized with board size 6x6
+2025-05-04 05:51:26,573 - YinYangWebServer - INFO - Board state for AI move: 
+[[0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 1 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]]
+2025-05-04 05:51:26,573 - YinYangWebServer - INFO - Current player: -1
+2025-05-04 05:51:26,579 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-04 05:51:26,579 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-04 05:51:27,732 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 05:51:27,733 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 05:51:27,733 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-04 05:51:27,733 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:27] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-04 05:51:30,326 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-04 05:51:30,327 - YinYangWebServer - INFO - Board state for AI move: 
+[[ 0  0  0  0  0  0]
+ [ 0  0  0  0  0  0]
+ [ 0  0  0  1  1  0]
+ [ 0  0 -1  0  0  0]
+ [ 0  0  0  0  0  0]
+ [ 0  0  0  0  0  0]]
+2025-05-04 05:51:30,327 - YinYangWebServer - INFO - Current player: -1
+2025-05-04 05:51:30,336 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-04 05:51:30,337 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-04 05:51:31,429 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-04 05:51:31,429 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-04 05:51:31,429 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-04 05:51:31,429 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:31] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-04 05:51:39,527 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:39] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-04 05:51:39,528 - werkzeug - INFO - 127.0.0.1 - - [04/May/2025 05:51:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-07 18:17:39,677 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2025-05-07 18:17:39,677 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 18:17:39,701 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-07 18:17:42,362 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 18:17:42,368 - werkzeug - INFO -  * Debugger PIN: 451-403-081
+2025-05-07 18:17:42,487 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:17:42] "GET / HTTP/1.1" 200 -
+2025-05-07 18:17:42,489 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:17:42] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-07 18:17:42,536 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:17:42] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-05-07 18:17:42,852 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:17:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-07 18:17:42,867 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:17:42] "GET /static/js/yin_yang_game.js HTTP/1.1" 200 -
+2025-05-07 18:17:43,176 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:17:43] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-07 18:17:43,379 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:17:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-07 18:17:43,686 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:17:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-07 18:17:57,497 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:17:57] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-07 18:18:03,395 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-07 18:18:03,395 - YinYangWebServer - INFO - Creating new game instance with size 6x6
+2025-05-07 18:18:03,395 - YinYangWebServer - INFO - Initializing AlphaZero player with model: models/best_model.pth.tar
+2025-05-07 18:18:03,437 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-07 18:18:03,437 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-07 18:18:03,437 - YinYangNN - INFO - Action size: 36
+2025-05-07 18:18:03,437 - YinYangNN - INFO - Input channels: 5
+2025-05-07 18:18:03,437 - YinYangNN - INFO - Number of filters: 128
+2025-05-07 18:18:03,437 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-07 18:18:03,460 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-07 18:18:03,496 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-07 18:18:03,496 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-07 18:18:03,497 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-07 18:18:03,497 - YinYangWebServer - INFO - AlphaZero player initialized with board size 6x6
+2025-05-07 18:18:03,497 - YinYangWebServer - INFO - Board state for AI move: 
+[[0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 1 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]]
+2025-05-07 18:18:03,497 - YinYangWebServer - INFO - Current player: -1
+2025-05-07 18:18:03,503 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-07 18:18:03,503 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-07 18:18:04,606 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-07 18:18:04,607 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-07 18:18:04,607 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-07 18:18:04,607 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:04] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-07 18:18:10,356 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:10] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-07 18:18:10,371 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:10] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-07 18:18:13,822 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-07 18:18:13,822 - YinYangWebServer - INFO - Board state for AI move: 
+[[ 0  0  0  0  0  0]
+ [ 0  0  0  0  0  0]
+ [ 0  1  1  0  0  0]
+ [ 0  0 -1  0  0  0]
+ [ 0  0  0  0  0  0]
+ [ 0  0  0  0  0  0]]
+2025-05-07 18:18:13,822 - YinYangWebServer - INFO - Current player: -1
+2025-05-07 18:18:13,827 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-07 18:18:13,829 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-07 18:18:14,861 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-07 18:18:14,862 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-07 18:18:14,862 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-07 18:18:14,862 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:14] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-07 18:18:43,594 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:43] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-07 18:18:43,626 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:43] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-07 18:18:43,857 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-07 18:18:43,951 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:43] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-07 18:18:47,391 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:47] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-07 18:18:58,689 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-07 18:18:58,689 - YinYangWebServer - INFO - Board state for AI move: 
+[[0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 1 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]]
+2025-05-07 18:18:58,690 - YinYangWebServer - INFO - Current player: -1
+2025-05-07 18:18:58,695 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-07 18:18:58,695 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-07 18:18:59,736 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-07 18:18:59,736 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-07 18:18:59,736 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-07 18:18:59,736 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:18:59] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-07 18:19:03,455 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-07 18:19:03,456 - YinYangWebServer - INFO - Board state for AI move: 
+[[ 0  0  0  0  0  0]
+ [ 0  0  1  0  0  0]
+ [ 0  0  1  0  0  0]
+ [ 0  0 -1  0  0  0]
+ [ 0  0  0  0  0  0]
+ [ 0  0  0  0  0  0]]
+2025-05-07 18:19:03,456 - YinYangWebServer - INFO - Current player: -1
+2025-05-07 18:19:03,464 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-07 18:19:03,464 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-07 18:19:04,521 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-07 18:19:04,522 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-07 18:19:04,522 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-07 18:19:04,522 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 18:19:04] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-07 22:49:21,708 - werkzeug - INFO -  * Detected change in 'D:\\conda\\Scripts\\conda-script.py', reloading
+2025-05-07 22:49:23,337 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-07 22:49:31,205 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 22:49:31,217 - werkzeug - INFO -  * Debugger PIN: 451-403-081
+2025-05-07 22:49:31,704 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:49:31] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-07 22:49:31,766 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:49:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-07 22:49:31,896 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:49:31] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-07 22:49:34,228 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:49:34] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-07 22:50:01,999 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2025-05-07 22:50:01,999 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 22:50:02,017 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-07 22:50:04,820 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 22:50:04,825 - werkzeug - INFO -  * Debugger PIN: 451-403-081
+2025-05-07 22:50:04,927 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:04] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-07 22:50:04,931 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:04] "[36mGET / HTTP/1.1[0m" 304 -
+2025-05-07 22:50:04,996 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:04] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-07 22:50:05,300 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-07 22:50:05,300 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:05] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-07 22:50:05,609 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:05] "[36mGET /static/js/yin_yang_game.js HTTP/1.1[0m" 304 -
+2025-05-07 22:50:12,212 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:12] "POST /api/validate_model HTTP/1.1" 200 -
+2025-05-07 22:50:15,460 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-07 22:50:15,460 - YinYangWebServer - INFO - Creating new game instance with size 6x6
+2025-05-07 22:50:15,460 - YinYangWebServer - INFO - Initializing AlphaZero player with model: models/best_model.pth.tar
+2025-05-07 22:50:15,484 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-07 22:50:15,485 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-07 22:50:15,485 - YinYangNN - INFO - Action size: 36
+2025-05-07 22:50:15,485 - YinYangNN - INFO - Input channels: 5
+2025-05-07 22:50:15,485 - YinYangNN - INFO - Number of filters: 128
+2025-05-07 22:50:15,485 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-07 22:50:15,506 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-07 22:50:15,539 - YinYangNN - INFO - Model loaded from models/best_model.pth.tar
+2025-05-07 22:50:15,539 - YinYangAlphaZero - INFO - Loaded model from models/best_model.pth.tar
+2025-05-07 22:50:15,540 - YinYangMCTS - INFO - MCTS initialized with 100 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-07 22:50:15,540 - YinYangWebServer - INFO - AlphaZero player initialized with board size 6x6
+2025-05-07 22:50:15,540 - YinYangWebServer - INFO - Board state for AI move: 
+[[0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 1 0]
+ [0 0 0 0 0 0]]
+2025-05-07 22:50:15,540 - YinYangWebServer - INFO - Current player: -1
+2025-05-07 22:50:15,546 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-07 22:50:15,546 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-07 22:50:16,557 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-07 22:50:16,557 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-07 22:50:16,557 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-07 22:50:16,558 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:16] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-07 22:50:21,368 - YinYangWebServer - INFO - AI move requested for board size 6x6, player -1, model: models/best_model.pth.tar
+2025-05-07 22:50:21,369 - YinYangWebServer - INFO - Board state for AI move: 
+[[ 0  0  0  0  0  0]
+ [ 0  0  0  0  0  0]
+ [ 0  0  0  0  0  0]
+ [ 0  0 -1  0  0  0]
+ [ 0  0  0  1  1  0]
+ [ 0  0  0  0  0  0]]
+2025-05-07 22:50:21,369 - YinYangWebServer - INFO - Current player: -1
+2025-05-07 22:50:21,375 - YinYangWebServer - INFO - Number of valid moves: 36.0
+2025-05-07 22:50:21,377 - YinYangWebServer - INFO - Calling AlphaZero player to make a move...
+2025-05-07 22:50:22,482 - YinYangMCTS - INFO - MCTS search completed with 100 total visits. Top actions: 20((3, 2)): 25.0, 6((1, 0)): 6.0, 28((4, 4)): 5.0, 33((5, 3)): 4.0, 35((5, 5)): 3.0
+2025-05-07 22:50:22,482 - YinYangMCTS - INFO - Selected action 20 (3,2) with probability 0.2500
+2025-05-07 22:50:22,483 - YinYangWebServer - INFO - AI selected move: (3, 2) - action 20
+2025-05-07 22:50:22,483 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:22] "POST /api/ai_move HTTP/1.1" 200 -
+2025-05-07 22:50:28,687 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-05-07 22:50:28,716 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 22:50:28] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-05-07 22:51:42,759 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-07 22:51:42,759 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-07 22:51:42,760 - YinYangNN - INFO - Action size: 36
+2025-05-07 22:51:42,760 - YinYangNN - INFO - Input channels: 5
+2025-05-07 22:51:42,760 - YinYangNN - INFO - Number of filters: 128
+2025-05-07 22:51:42,760 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-07 22:51:42,773 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-07 22:51:42,805 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-07 22:51:42,821 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-07 22:51:42,821 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-07 22:51:42,821 - YinYangNN - INFO - Action size: 36
+2025-05-07 22:51:42,821 - YinYangNN - INFO - Input channels: 5
+2025-05-07 22:51:42,823 - YinYangNN - INFO - Number of filters: 128
+2025-05-07 22:51:42,823 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-07 22:51:42,835 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-07 22:51:45,337 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-07 22:52:41,034 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-07 22:52:41,052 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-07 22:52:41,052 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-07 22:52:41,052 - YinYangNN - INFO - Action size: 36
+2025-05-07 22:52:41,052 - YinYangNN - INFO - Input channels: 5
+2025-05-07 22:52:41,052 - YinYangNN - INFO - Number of filters: 128
+2025-05-07 22:52:41,052 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-07 22:52:41,069 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-07 22:52:41,112 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-07 22:53:06,591 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-07 22:53:06,591 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-07 22:53:06,591 - YinYangNN - INFO - Action size: 36
+2025-05-07 22:53:06,591 - YinYangNN - INFO - Input channels: 5
+2025-05-07 22:53:06,591 - YinYangNN - INFO - Number of filters: 128
+2025-05-07 22:53:06,591 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-07 22:53:06,606 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-07 22:53:06,630 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-07 22:53:06,630 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-07 22:53:06,630 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-07 22:53:06,741 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-07 22:53:06,742 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-07 22:53:06,780 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-07 22:53:06,780 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-07 22:53:06,780 - YinYangNN - INFO - Action size: 36
+2025-05-07 22:53:06,780 - YinYangNN - INFO - Input channels: 5
+2025-05-07 22:53:06,780 - YinYangNN - INFO - Number of filters: 128
+2025-05-07 22:53:06,780 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-07 22:53:06,797 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-07 22:53:06,819 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-07 22:53:06,820 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-07 22:53:06,820 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-07 22:53:06,861 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-07 22:53:06,861 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-07 22:53:06,861 - YinYangNN - INFO - Action size: 36
+2025-05-07 22:53:06,861 - YinYangNN - INFO - Input channels: 5
+2025-05-07 22:53:06,861 - YinYangNN - INFO - Number of filters: 128
+2025-05-07 22:53:06,862 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-07 22:53:06,877 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-07 22:53:06,903 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-07 22:53:06,903 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-07 22:53:06,904 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-07 22:53:07,009 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-07 22:53:07,009 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-07 22:53:07,097 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 3((0, 3)): 4.0, 8((1, 2)): 2.0, 6((1, 0)): 2.0, 7((1, 1)): 2.0
+2025-05-07 22:53:07,097 - YinYangMCTS - INFO - Selected action 3 (0,3) with probability 0.4000
+2025-05-07 22:53:07,097 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-07 22:53:07,193 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 12((2, 0)): 8.0, 14((2, 2)): 2.0
+2025-05-07 22:53:07,193 - YinYangMCTS - INFO - Selected action 12 (2,0) with probability 0.8000
+2025-05-07 22:53:07,193 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-07 22:53:07,306 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 25((4, 1)): 10.0
+2025-05-07 22:53:07,306 - YinYangMCTS - WARNING - No valid moves with non-zero probability
+2025-05-07 22:53:07,306 - YinYangAlphaZero - WARNING - MCTS selected invalid move 25, selecting a random valid move instead
+2025-05-07 22:53:07,307 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-08 22:56:20,072 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:20,093 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:20,093 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:20,093 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:20,093 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:20,093 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:20,118 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:20,190 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-08 22:56:20,190 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-08 22:56:20,191 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-08 22:56:20,431 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-08 22:56:20,459 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-08 22:56:20,539 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:20,539 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:20,539 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:20,539 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:20,539 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:20,539 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:20,565 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:20,597 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-08 22:56:20,598 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-08 22:56:20,598 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-08 22:56:20,652 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:20,652 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:20,652 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:20,652 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:20,652 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:20,652 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:20,673 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:20,702 - YinYangNN - INFO - Model loaded from models\best_model.pth.tar
+2025-05-08 22:56:20,703 - YinYangAlphaZero - INFO - Loaded model from models\best_model.pth.tar
+2025-05-08 22:56:20,703 - YinYangMCTS - INFO - MCTS initialized with 10 simulations, cpuct=1.0, temperature=1.0, threads=1
+2025-05-08 22:56:20,839 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 0((0, 0)): 1.0, 4((0, 4)): 1.0, 19((3, 1)): 1.0, 22((3, 4)): 1.0, 9((1, 3)): 1.0
+2025-05-08 22:56:20,839 - YinYangMCTS - INFO - Selected action 0 (0,0) with probability 0.1000
+2025-05-08 22:56:20,957 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 3((0, 3)): 4.0, 8((1, 2)): 2.0, 6((1, 0)): 2.0, 7((1, 1)): 2.0
+2025-05-08 22:56:20,957 - YinYangMCTS - INFO - Selected action 3 (0,3) with probability 0.4000
+2025-05-08 22:56:20,957 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-08 22:56:21,086 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 12((2, 0)): 8.0, 14((2, 2)): 2.0
+2025-05-08 22:56:21,086 - YinYangMCTS - INFO - Selected action 12 (2,0) with probability 0.8000
+2025-05-08 22:56:21,086 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-08 22:56:21,264 - YinYangMCTS - INFO - MCTS search completed with 10 total visits. Top actions: 25((4, 1)): 10.0
+2025-05-08 22:56:21,264 - YinYangMCTS - WARNING - No valid moves with non-zero probability
+2025-05-08 22:56:21,264 - YinYangAlphaZero - WARNING - MCTS selected invalid move 25, selecting a random valid move instead
+2025-05-08 22:56:21,297 - YinYangMCTS - INFO - Cannot reuse tree, creating new root
+2025-05-08 22:56:34,898 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:34,899 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:34,899 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:34,899 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:34,899 - YinYangNN - INFO - Number of filters: 32
+2025-05-08 22:56:34,900 - YinYangNN - INFO - Number of residual blocks: 2
+2025-05-08 22:56:34,904 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:34,921 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:34,922 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:34,922 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:34,922 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:34,922 - YinYangNN - INFO - Number of filters: 32
+2025-05-08 22:56:34,922 - YinYangNN - INFO - Number of residual blocks: 2
+2025-05-08 22:56:34,926 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:34,991 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:34,992 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:34,993 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:34,993 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:34,993 - YinYangNN - INFO - Number of filters: 32
+2025-05-08 22:56:34,993 - YinYangNN - INFO - Number of residual blocks: 2
+2025-05-08 22:56:34,997 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:35,003 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:35,003 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:35,003 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:35,003 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:35,003 - YinYangNN - INFO - Number of filters: 32
+2025-05-08 22:56:35,004 - YinYangNN - INFO - Number of residual blocks: 2
+2025-05-08 22:56:35,007 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:35,019 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:35,020 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:35,020 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:35,020 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:35,021 - YinYangNN - INFO - Number of filters: 32
+2025-05-08 22:56:35,021 - YinYangNN - INFO - Number of residual blocks: 2
+2025-05-08 22:56:35,024 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:35,057 - YinYangNN - INFO - Model saved to C:\Users\arash\AppData\Local\Temp\tmp7pceujo7.pth.tar
+2025-05-08 22:56:35,064 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:35,064 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:35,064 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:35,065 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:35,065 - YinYangNN - INFO - Number of filters: 32
+2025-05-08 22:56:35,065 - YinYangNN - INFO - Number of residual blocks: 2
+2025-05-08 22:56:35,069 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:35,100 - YinYangNN - INFO - Model loaded from C:\Users\arash\AppData\Local\Temp\tmp7pceujo7.pth.tar
+2025-05-08 22:56:35,122 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:35,123 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:35,123 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:35,123 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:35,123 - YinYangNN - INFO - Number of filters: 32
+2025-05-08 22:56:35,123 - YinYangNN - INFO - Number of residual blocks: 2
+2025-05-08 22:56:35,126 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:35,219 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 22:56:35,246 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:35,246 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:35,246 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:35,246 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:35,246 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:35,247 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:35,267 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,069 - YinYangNN.trainer - INFO - Training parameters: lr=0.01, batch_size=5, weight_decay=0.0001
+2025-05-08 22:56:39,070 - YinYangNN.trainer - INFO - Training on 10 examples for 1 epochs
+2025-05-08 22:56:39,070 - YinYangNN.data - INFO - DataProcessor initialized with board size (6, 6)
+2025-05-08 22:56:39,091 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,092 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,092 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,092 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,092 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,092 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,110 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,200 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,201 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,201 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,201 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,201 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,201 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,220 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,241 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,242 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,242 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,242 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,242 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,243 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,260 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,278 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,279 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,279 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,279 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,280 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,280 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,301 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,320 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,321 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,321 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,321 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,321 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,321 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,338 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,358 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,359 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,359 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,359 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,359 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,360 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,379 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,401 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,402 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,402 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,432 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,432 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,432 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,451 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,475 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,476 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,476 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,476 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,476 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,477 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,494 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,515 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,515 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,515 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,516 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,516 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,517 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,534 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,559 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:56:39,559 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:56:39,559 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:56:39,559 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:56:39,560 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:56:39,560 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:56:39,606 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:56:39,609 - YinYangNN.data - INFO - Created dataset with 80 samples (augmentation=True)
+2025-05-08 22:56:41,256 - YinYangNN.trainer - INFO - Epoch 1/1 - Policy Loss: 4.3869, Value Loss: 0.9742, Total Loss: 5.3611, Time: 1.64s
+2025-05-08 22:57:25,652 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:57:25,652 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:57:25,652 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:57:25,652 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:57:25,652 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:57:25,652 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:57:25,671 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:57:25,691 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 22:57:25,713 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:57:25,713 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:57:25,713 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:57:25,713 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:57:25,713 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:57:25,713 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:57:25,729 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:57:28,042 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-08 22:58:44,331 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-08 22:58:44,360 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:58:44,360 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:58:44,360 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:58:44,360 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:58:44,360 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:58:44,360 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:58:44,383 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:58:44,450 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-08 22:58:51,468 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:58:51,468 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:58:51,468 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:58:51,468 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:58:51,468 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:58:51,468 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:58:51,484 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:58:51,503 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 22:58:51,526 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 22:58:51,527 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 22:58:51,527 - YinYangNN - INFO - Action size: 36
+2025-05-08 22:58:51,527 - YinYangNN - INFO - Input channels: 5
+2025-05-08 22:58:51,527 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 22:58:51,527 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 22:58:51,544 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 22:58:53,715 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-08 23:01:56,330 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-08 23:01:56,351 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:01:56,351 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:01:56,352 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:01:56,352 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:01:56,352 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:01:56,352 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:01:56,370 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:01:56,425 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-08 23:02:03,003 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:02:03,003 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:02:03,003 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:02:03,003 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:02:03,003 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:02:03,003 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:02:03,019 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:02:03,043 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 23:02:03,063 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:02:03,063 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:02:03,063 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:02:03,063 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:02:03,063 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:02:03,063 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:02:03,080 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:02:05,081 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-08 23:02:48,886 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-08 23:02:48,919 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:02:48,920 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:02:48,920 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:02:48,920 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:02:48,920 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:02:48,920 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:02:48,946 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:02:49,009 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-08 23:02:56,018 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:02:56,018 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:02:56,018 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:02:56,018 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:02:56,018 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:02:56,018 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:02:56,035 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:02:56,056 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 23:02:56,080 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:02:56,080 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:02:56,080 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:02:56,080 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:02:56,080 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:02:56,080 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:02:56,100 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:02:58,275 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-08 23:03:30,735 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-08 23:03:30,761 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:03:30,762 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:03:30,762 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:03:30,762 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:03:30,762 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:03:30,762 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:03:30,781 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:03:30,834 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-08 23:03:38,235 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:03:38,235 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:03:38,235 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:03:38,235 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:03:38,235 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:03:38,235 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:03:38,252 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:03:38,273 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 23:03:38,294 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:03:38,294 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:03:38,294 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:03:38,294 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:03:38,294 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:03:38,295 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:03:38,312 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:03:40,349 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-08 23:04:18,563 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-08 23:04:18,592 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:04:18,593 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:04:18,593 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:04:18,593 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:04:18,593 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:04:18,593 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:04:18,617 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:04:18,669 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-08 23:04:26,750 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:04:26,750 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:04:26,750 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:04:26,750 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:04:26,750 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:04:26,750 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:04:26,767 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:04:26,787 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 23:04:26,807 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:04:26,807 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:04:26,807 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:04:26,807 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:04:26,807 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:04:26,807 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:04:26,825 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:04:28,832 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-08 23:04:34,516 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-08 23:04:34,545 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:04:34,545 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:04:34,545 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:04:34,545 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:04:34,545 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:04:34,545 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:04:34,565 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:04:34,622 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-08 23:04:40,633 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:04:40,634 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:04:40,634 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:04:40,634 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:04:40,634 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:04:40,634 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:04:40,652 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:04:40,671 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 23:04:40,694 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:04:40,695 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:04:40,695 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:04:40,695 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:04:40,695 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:04:40,695 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:04:40,712 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:04:42,908 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-08 23:04:47,717 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-08 23:04:47,749 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:04:47,749 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:04:47,749 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:04:47,750 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:04:47,750 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:04:47,750 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:04:47,771 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:04:47,829 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-08 23:04:53,473 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:04:53,473 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:04:53,473 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:04:53,473 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:04:53,473 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:04:53,473 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:04:53,490 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:04:53,510 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 23:04:53,531 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:04:53,531 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:04:53,531 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:04:53,531 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:04:53,531 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:04:53,531 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:04:53,548 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:04:55,613 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-08 23:05:00,769 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-08 23:05:00,794 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:05:00,794 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:05:00,794 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:05:00,794 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:05:00,794 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:05:00,794 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:05:00,811 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:05:00,865 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar
+2025-05-08 23:05:06,289 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:05:06,289 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:05:06,289 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:05:06,290 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:05:06,290 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:05:06,290 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:05:06,306 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:05:06,329 - YinYangNN.trainer - INFO - Training on device: cuda
+2025-05-08 23:05:06,350 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:05:06,350 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:05:06,351 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:05:06,351 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:05:06,351 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:05:06,351 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:05:06,384 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:05:08,505 - YinYangNN.trainer - INFO - Training parameters: lr=0.001, batch_size=64, weight_decay=0.0001
+2025-05-08 23:05:38,438 - YinYangNN - INFO - Model saved to models\example_model.pth.tar
+2025-05-08 23:05:38,463 - YinYangNN - INFO - YinYang Neural Network Architecture:
+2025-05-08 23:05:38,463 - YinYangNN - INFO - Board size: (6, 6)
+2025-05-08 23:05:38,463 - YinYangNN - INFO - Action size: 36
+2025-05-08 23:05:38,464 - YinYangNN - INFO - Input channels: 5
+2025-05-08 23:05:38,464 - YinYangNN - INFO - Number of filters: 128
+2025-05-08 23:05:38,464 - YinYangNN - INFO - Number of residual blocks: 10
+2025-05-08 23:05:38,488 - YinYangNN - INFO - Weights initialized with Xavier/Glorot initialization
+2025-05-08 23:05:38,549 - YinYangNN - INFO - Model loaded from models\example_model.pth.tar

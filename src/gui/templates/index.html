@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yin-Yang Game</title>
+    <link rel="stylesheet" href="../static/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Yin-Yang Game</h1>
+        </header>
+        
+        <div class="game-info">
+            <div id="current-player">Current Player: <span>Black</span></div>
+            <div id="piece-counts">
+                <div>Black: <span id="black-count">0</span></div>
+                <div>White: <span id="white-count">0</span></div>
+            </div>
+            <div id="game-status">Game in progress</div>
+        </div>
+        
+        <div class="settings">
+            <div class="size-settings">
+                <label for="board-size-rows">Rows:</label>
+                <input type="number" id="board-size-rows" min="4" max="12" value="8">
+                <label for="board-size-cols">Columns:</label>
+                <input type="number" id="board-size-cols" min="4" max="12" value="8">
+                <button id="set-board-size">Set Size</button>
+            </div>
+            <button id="restart-game">Restart Game</button>
+        </div>
+        
+        <div class="player-settings">
+            <div class="player-select">
+                <label for="player-black">Black player:</label>
+                <select id="player-black">
+                    <option value="human">Human</option>
+                    <option value="alphazero">AlphaZero AI</option>
+                </select>
+                
+                <label for="player-white">White player:</label>
+                <select id="player-white">
+                    <option value="human">Human</option>
+                    <option value="alphazero">AlphaZero AI</option>
+                </select>
+            </div>
+            
+            <div class="ai-settings">
+                <label for="model-path">AlphaZero Model:</label>
+                <input type="text" id="model-path" value="models/best_model.pth.tar">
+                <button id="validate-model">Validate Model</button>
+                <span id="model-status"></span>
+            </div>
+        </div>
+        
+        <div class="random-pieces-settings">
+            <label for="random-pieces-count">Random pieces (pairs):</label>
+            <input type="number" id="random-pieces-count" min="0" max="10" value="0">
+            <button id="apply-random-pieces">Apply Random Pieces</button>
+        </div>
+        
+        <div class="game-board-container">
+            <div id="game-board" class="game-board"></div>
+        </div>
+        
+        <div id="message" class="message hidden"></div>
+        
+        <div class="rules">
+            <h2>Game Rules</h2>
+            <ol>
+                <li>Players take turns placing pieces on the grid</li>
+                <li>Player 1 (Black) places black pieces, Player 2 (White) places white pieces</li>
+                <li>All pieces of the same color must form a single connected group (horizontal or vertical connections only)</li>
+                <li>No 2×2 area within the grid should contain four pieces of the same color</li>
+                <li>No complete row or column is allowed to contain pieces of only one color (both colors must appear in every filled row and column)</li>
+                <li>The goal is to maximize the number of your own pieces on the board</li>
+                <li>The game ends when no more valid moves are possible</li>
+                <li>The player with more pieces on the board wins</li>
+            </ol>
+        </div>
+    </div>
+    
+    <script src="../static/js/yin_yang_game.js"></script>
+</body>
+</html> 
