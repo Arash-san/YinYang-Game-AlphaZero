@@ -52,6 +52,13 @@
                 <input type="text" id="model-path" value="models/best_model.pth.tar">
                 <button id="validate-model">Validate Model</button>
                 <span id="model-status"></span>
+                
+                <label for="num-simulations">MCTS Simulations:</label>
+                <input type="number" id="num-simulations" value="100" min="10" max="1000">
+            </div>
+            <div id="ai-status-message" class="ai-status hidden">
+                <div class="spinner"></div>
+                <span class="message-text"></span>
             </div>
         </div>
         

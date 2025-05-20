@@ -589,6 +589,7 @@ class YinYangGameUI {
         this.playerWhiteSelect = null;
         this.modelPathInput = null;
         this.modelStatusElem = null;
+        this.aiStatusMessageElem = null; // For the new AI status message div
         this.isAIThinking = false;
         this.aiModelValidated = false;
         
@@ -618,7 +619,9 @@ class YinYangGameUI {
         this.playerBlackSelect = document.getElementById('player-black');
         this.playerWhiteSelect = document.getElementById('player-white');
         this.modelPathInput = document.getElementById('model-path');
-        this.modelStatusElem = document.getElementById('model-status');
+        this.numSimulationsInput = document.getElementById('num-simulations'); // New input for MCTS simulations
+        this.modelStatusElem = document.getElementById('model-status'); // For model validation status
+        this.aiStatusMessageElem = document.getElementById('ai-status-message'); // For general AI status
         
         // Settings elements
         this.setBoardSizeButton = document.getElementById('set-board-size');
@@ -746,6 +749,19 @@ class YinYangGameUI {
         // Add event listener for model validation
         document.getElementById('validate-model').addEventListener('click', () => {
             this.validateModel();
+        });
+
+        // Add event listener for model path input changes to trigger validation
+        this.modelPathInput.addEventListener('change', () => {
+            this.aiModelValidated = false; // Reset validation status on path change
+            this.validateModel();
+        });
+        
+        // Add event listener for num simulations input changes
+        this.numSimulationsInput.addEventListener('change', () => {
+            // Potentially re-validate or just note that AI player needs re-init
+             this.aiModelValidated = false; // Reset validation as AI player params changed
+             this.showAIStatus('MCTS simulations changed. Model will re-initialize on next AI move.', 'info');
         });
     }
     
@@ -941,23 +957,65 @@ class YinYangGameUI {
         this.messageElem.className = `message ${type}`;
         this.messageElem.classList.remove('hidden');
         
-        // Auto-hide info messages after 3 seconds
-        if (type === 'info') {
+        // Auto-hide info/success messages after 3 seconds, errors persist longer or until next action
+        if (type === 'info' || type === 'success') {
             setTimeout(() => {
                 this.messageElem.classList.add('hidden');
             }, 3000);
+        } else if (type === 'error') {
+             setTimeout(() => {
+                this.messageElem.classList.add('hidden');
+            }, 5000);
         }
     }
+
+    /**
+     * Show AI status messages (e.g., "AI is thinking...", errors)
+     * @param {string} message - The message to display
+     * @param {string} type - 'thinking', 'error', 'success', 'info'
+     * @param {boolean} showSpinner - Whether to show the spinner
+     */
+    showAIStatus(message, type = 'info', showSpinner = false) {
+        if (!this.aiStatusMessageElem) return;
+
+        const messageTextElem = this.aiStatusMessageElem.querySelector('.message-text');
+        const spinnerElem = this.aiStatusMessageElem.querySelector('.spinner');
+
+        messageTextElem.textContent = message;
+        this.aiStatusMessageElem.className = `ai-status ${type}`; // Reset classes and apply new type
+        
+        if (showSpinner) {
+            spinnerElem.classList.remove('hidden');
+        } else {
+            spinnerElem.classList.add('hidden');
+        }
+
+        if (message) {
+            this.aiStatusMessageElem.classList.remove('hidden');
+        } else {
+            this.aiStatusMessageElem.classList.add('hidden');
+        }
+    }
+    
+    hideAIStatus() {
+        if (!this.aiStatusMessageElem) return;
+        this.aiStatusMessageElem.classList.add('hidden');
+        this.aiStatusMessageElem.querySelector('.message-text').textContent = '';
+        this.aiStatusMessageElem.querySelector('.spinner').classList.add('hidden');
+    }
+
 
     // Add these methods for AI functionality
     validateModel() {
         const modelPath = this.modelPathInput.value.trim();
         if (!modelPath) {
-            this.showModelStatus('Please enter a model path', false);
+            this.showModelStatus('Please enter a model path', false); // Uses the old model status span
+            this.showAIStatus('Please enter a model path to validate.', 'error', false);
             return;
         }
         
-        this.showModelStatus('Validating...', null);
+        this.showModelStatus('Validating...', null); // Old span
+        this.showAIStatus('Validating model...', 'info', true);
         
         fetch('/api/validate_model', {
             method: 'POST',
@@ -972,7 +1030,8 @@ class YinYangGameUI {
         .then(data => {
             if (data.valid) {
                 this.aiModelValidated = true;
-                this.showModelStatus(`Valid model (${data.boardSize.rows}x${data.boardSize.cols})`, true);
+                this.showModelStatus(`Valid model (${data.boardSize.rows}x${data.boardSize.cols})`, true); // Old span
+                this.showAIStatus(`Model validated successfully for board size ${data.boardSize.rows}x${data.boardSize.cols}.`, 'success', false);
                 
                 // If the model has a specific board size, update the board
                 if (data.boardSize && 
@@ -988,19 +1047,23 @@ class YinYangGameUI {
                 }
             } else {
                 this.aiModelValidated = false;
-                this.showModelStatus(data.message || 'Invalid model', false);
+                this.showModelStatus(data.message || 'Invalid model', false); // Old span
+                this.showAIStatus(`Model validation failed: ${data.message || 'Invalid model'}`, 'error', false);
+                 // Optionally, disable AI play if model is invalid
+                // Example: document.getElementById('play-ai-button').disabled = true;
             }
         })
         .catch(error => {
             console.error('Error validating model:', error);
             this.aiModelValidated = false;
-            this.showModelStatus('Error validating model', false);
+            this.showModelStatus('Error validating model', false); // Old span
+            this.showAIStatus('Error validating model. Check console for details.', 'error', false);
         });
     }
 
-    showModelStatus(message, isValid) {
+    showModelStatus(message, isValid) { // This is for the small span next to the button
         this.modelStatusElem.textContent = message;
-        this.modelStatusElem.className = '';
+        this.modelStatusElem.className = ''; // Clear existing classes
         
         if (isValid === true) {
             this.modelStatusElem.classList.add('valid');
@@ -1019,20 +1082,23 @@ class YinYangGameUI {
         // If current player is AI, make a move
         if ((currentPlayer === 1 && isBlackAI) || (currentPlayer === -1 && isWhiteAI)) {
             this.makeAIMove();
+        } else {
+            this.hideAIStatus(); // Hide AI status if it's human's turn
         }
     }
 
     makeAIMove() {
         if (!this.aiModelValidated) {
-            // Try to validate the model first
-            this.validateModel();
+            this.showAIStatus('AI model is not validated. Please validate the model first.', 'error', false);
+            // Try to validate the model first, then if successful, it might trigger AI move again.
+            this.validateModel(); 
             return;
         }
         
         this.isAIThinking = true;
-        this.showMessage('AI is thinking...', 'info');
+        this.showAIStatus('AI is thinking...', 'info', true); // Show spinner and message
         
-        // Show thinking state
+        // Show thinking state on board (optional, if you have CSS for this)
         this.boardElem.classList.add('ai-thinking');
         
         // Prepare board data
@@ -1052,36 +1118,47 @@ class YinYangGameUI {
                 currentPlayer: this.game.currentPlayer,
                 rows: this.game.rows,
                 cols: this.game.cols,
-                modelPath: this.modelPathInput.value.trim()
+                modelPath: this.modelPathInput.value.trim(),
+                numSimulations: parseInt(this.numSimulationsInput.value, 10) || 100 // Ensure it's an int, default to 100
             }),
         })
-        .then(response => response.json())
-        .then(data => {
-            this.boardElem.classList.remove('ai-thinking');
+        .then(response => {
+            // Regardless of ok status, try to parse JSON, as server might send error details in JSON
+            return response.json().then(data => ({ ok: response.ok, status: response.status, data }));
+        })
+        .then(({ ok, status, data }) => {
+            this.boardElem.classList.remove('ai-thinking'); // Remove board dimming
             this.isAIThinking = false;
-            
-            if (data.error) {
-                this.showMessage(`AI error: ${data.error}`, 'error');
+            // Do not hide AI status immediately, let the specific conditions below handle it or clear it.
+
+            if (!ok || data.error) {
+                const errorMessage = data.error || `AI request failed with status ${status}`;
+                this.showAIStatus(`AI Error: ${errorMessage}`, 'error', false);
+                // this.showMessage(`AI error: ${errorMessage}`, 'error'); // Also show in general message area if desired
                 return;
             }
             
             if (!data.validMove) {
-                this.showMessage(data.message || 'AI could not find a valid move', 'warning');
+                this.showAIStatus(data.message || 'AI could not find a valid move.', 'info', false);
+                // this.showMessage(data.message || 'AI could not find a valid move', 'warning');
                 
                 // Check if game is over
                 if (!this.game.hasValidMoves()) {
                     this.game.gameOver = true;
                     this.game.determineWinner();
-                    this.handleGameOver();
+                    this.handleGameOver(); // This will show game over message
                 } else {
                     // Switch player
                     this.game.currentPlayer = -this.game.currentPlayer;
                     this.updateGameInfo();
-                    this.checkForAIMove();
+                    // AI status about not finding a move is already shown.
+                    // Check if the new player (human or AI) should make a move.
+                    this.checkForAIMove(); 
                 }
                 return;
             }
             
+            this.hideAIStatus(); // Hide "AI is thinking" on successful move
             // Make the move
             const { row, col } = data;
             const moveSuccess = this.game.makeMove(row, col);
@@ -1093,14 +1170,17 @@ class YinYangGameUI {
                 // Schedule next AI move if needed
                 setTimeout(() => this.checkForAIMove(), 500);
             } else {
-                this.showMessage('AI returned an invalid move', 'error');
+                // This case should ideally not happen if server sends valid moves
+                this.showAIStatus('AI returned an invalid move. Please report this issue.', 'error', false);
+                // this.showMessage('AI returned an invalid move', 'error');
             }
         })
-        .catch(error => {
+        .catch(error => { // Network errors or JSON parsing errors
             console.error('Error making AI move:', error);
             this.boardElem.classList.remove('ai-thinking');
             this.isAIThinking = false;
-            this.showMessage('Error communicating with AI', 'error');
+            this.showAIStatus(`Error communicating with AI: ${error.message}`, 'error', false);
+            // this.showMessage(`Error communicating with AI: ${error.message}`, 'error');
         });
     }
 }
